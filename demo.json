@@ -2,13 +2,24 @@
  "name": "flare",
  "children": [
   {
-   "name": "no consent",
-   "label": "hi there test",
-   "value": 100
+   "name": "Prior written consent\n not unreasonably withheld",
+   "value": 200
   }
   ,{
-   "name": "deed required",
-   "value": 70
+   "name": "Prior written consent - absolute discretion",
+   "value": 150
+  }
+  ,{
+   "name": "Expressly permitted without consent",
+   "value": 30
+  }
+  ,{
+   "name": "Related party dealing permitted without consent",
+   "value": 20
+  }
+  ,{
+   "name": "Expressly prohibited",
+   "value": 5
   }
  ]
 }
