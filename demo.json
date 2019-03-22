@@ -2,24 +2,24 @@
  "name": "flare",
  "children": [
   {
-   "name": "Prior written consent\n not unreasonably withheld",
-   "value": 200
+   "name": "Prior written consen - not unreasonably withheld",
+   "value": 220
   }
   ,{
    "name": "Prior written consent - absolute discretion",
-   "value": 150
+   "value": 140
   }
   ,{
    "name": "Expressly permitted without consent",
-   "value": 30
+   "value": 60
   }
   ,{
    "name": "Related party dealing permitted without consent",
-   "value": 20
+   "value": 40
   }
   ,{
    "name": "Expressly prohibited",
-   "value": 5
+   "value": 10
   }
  ]
 }
